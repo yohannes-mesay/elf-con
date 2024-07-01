@@ -90,8 +90,7 @@ function Values() {
               Commitment
             </AccordionSummary>
             <AccordionDetails className="text-sm font-[kanit]">
-              Our commitment is the foundation of everything we do. We pledge to
-              meet and exceed client expectations through dedicated service,
+ We pledge to meet and exceed client expectations through dedicated service,
               ensuring every project is completed on time and within budget. Our
               unwavering commitment fosters trust and long-lasting relationships
               with our clients.
