@@ -14,6 +14,8 @@ function Slider() {
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
+        backgroundImage: `url(${b1})`,
+
     backgroundPosition: "center",
     backgroundSize: "cover",
     color: "white",
